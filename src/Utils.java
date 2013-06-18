@@ -18,6 +18,10 @@ public class Utils {
     public boolean isEmpty(String s) {
         return s != null && s.length()>0;
     }
+
+    public boolean isNumeric(String s) {
+        return false;
+    }
     
     /* ********** Private instance methods ******* */
     

@@ -20,8 +20,15 @@ public class Utils {
     }
 
     public boolean isNumeric(String s) {
-        return false;
+        try {
+            Float.parseFloat(s);
+            return true;
+        } catch (Exception e) {
+            return false;
+        }
     }
+
+
     
     /* ********** Private instance methods ******* */
     

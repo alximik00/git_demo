@@ -11,8 +11,12 @@ public class Utils {
     /* ********** Variables                ******* */
     
     /* ********** Static methods           ******* */
+<<<<<<< HEAD
     public boolean isEmpty(String s) {
         return false;
+=======
+	void nothing() {
+>>>>>>> origin/master
     }
     /* ********** Constructors             ******* */
 

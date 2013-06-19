@@ -15,6 +15,10 @@ public class App {
     public static void main(String[] args) {
         System.out.print("Hello, git!");
     }
+
+    public void uselessMethod() {
+    }
+
     /* ********** Constructors             ******* */
 
     /* ********** Public instance methods  ******* */

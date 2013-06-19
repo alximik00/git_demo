@@ -11,7 +11,8 @@ public class Utils {
     /* ********** Variables                ******* */
     
     /* ********** Static methods           ******* */
-
+	void nothing() {
+    }
     /* ********** Constructors             ******* */
 
     /* ********** Public instance methods  ******* */

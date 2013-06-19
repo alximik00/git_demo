@@ -19,6 +19,10 @@ public class App {
     public void uselessMethod() {
     }
 
+    public void anotherUselessMehtod() {
+
+    }
+
     /* ********** Constructors             ******* */
 
     /* ********** Public instance methods  ******* */

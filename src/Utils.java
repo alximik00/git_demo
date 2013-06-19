@@ -11,7 +11,9 @@ public class Utils {
     /* ********** Variables                ******* */
     
     /* ********** Static methods           ******* */
-
+    public boolean isEmpty(String s) {
+        return false;
+    }
     /* ********** Constructors             ******* */
 
     /* ********** Public instance methods  ******* */
